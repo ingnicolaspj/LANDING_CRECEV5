@@ -333,14 +333,14 @@ body{
 .slider-frame {
 	width: 100%;
     height: auto;
-	margin:50px auto 0;
+	margin:25px auto;
 	overflow: hidden;
 }
 
 .slider-frame ul {
 	display: flex;
 	padding: 0;
-	width: 400%;
+	width: 800%;
 	
 	animation: slide 25s infinite alternate ease-in-out;
 }
