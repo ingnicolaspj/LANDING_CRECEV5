@@ -66,7 +66,7 @@ function onYouTubePlayerAPIReady() {
   player = new YT.Player('ytplayer', {
     height: '300',
     width: '640',
-    videoId: 'kR72dY7bSnQ',
+    videoId: 'kNcMDqo5YKU',
     playerVars: {
     'modestbranding': 1, // Oculta el logotipo de YouTube
     'rel': 0, // Desactiva los videos relacionados al final del video
